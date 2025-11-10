@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'Boticons';
+  src:  url('fonts/Boticons.eot?gmfl5f');
+  src:  url('fonts/Boticons.eot?gmfl5f#iefix') format('embedded-opentype'),
+    url('fonts/Boticons.ttf?gmfl5f') format('truetype'),
+    url('fonts/Boticons.woff?gmfl5f') format('woff'),
+    url('fonts/Boticons.svg?gmfl5f#Boticons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.bti {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Boticons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bt-gear:before {
+  content: "\e901";
+}
+.bt-check:before {
+  content: "\e902";
+}
+.bt-minus:before {
+  content: "\e903";
+}
+.bt-plus:before {
+  content: "\e904";
+}
+.bt-xmark:before {
+  content: "\e905";
+}
+.bt-user:before {
+  content: "\e906";
+}
+.bt-ellipses:before {
+  content: "\e907";
+}
+.bt-angles-up:before {
+  content: "\e908";
+}
+.bt-angles-down:before {
+  content: "\e909";
+}
+.bt-angles-right:before {
+  content: "\e90a";
+}
+.bt-angles-left:before {
+  content: "\e90b";
+}
+.bt-angle-up:before {
+  content: "\e90c";
+}
+.bt-angle-down:before {
+  content: "\e90d";
+}
+.bt-angle-right:before {
+  content: "\e90e";
+}
+.bt-angle-left:before {
+  content: "\e90f";
+}
+.bt-linkedin:before {
+  content: "\e910";
+}
+.bt-tiktok:before {
+  content: "\e911";
+}
+.bt-x-twitter:before {
+  content: "\e912";
+}
+.bt-facebook:before {
+  content: "\e913";
+}
+.bt-instagram:before {
+  content: "\e914";
+}
+.bt-arrow-down:before {
+  content: "\e91e";
+}
+.bt-arrow-left:before {
+  content: "\e91f";
+}
+.bt-arrow-right:before {
+  content: "\e920";
+}
+.bt-arrow-up:before {
+  content: "\e921";
+}
+.bt-bars:before {
+  content: "\e922";
+}
+.bt-bars-sort:before {
+  content: "\e923";
+}
+.bt-caret-down:before {
+  content: "\e924";
+}
+.bt-caret-left:before {
+  content: "\e925";
+}
+.bt-caret-right:before {
+  content: "\e926";
+}
+.bt-caret-up:before {
+  content: "\e927";
+}
+.bt-chevron-down:before {
+  content: "\e928";
+}
+.bt-chevron-left:before {
+  content: "\e929";
+}
+.bt-chevron-right:before {
+  content: "\e92a";
+}
+.bt-chevron-up:before {
+  content: "\e92b";
+}
+.bt-house:before {
+  content: "\e92c";
+}
+.bt-house-blank:before {
+  content: "\e92d";
+}
+.bt-house-chimney:before {
+  content: "\e92e";
+}
+.bt-list:before {
+  content: "\e92f";
+}
+.bt-magnifying-glass:before {
+  content: "\e930";
+}
+.bt-ellipses-vertical:before {
+  content: "\e900";
+}
