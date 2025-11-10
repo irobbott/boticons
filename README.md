@@ -1,5 +1,10 @@
 # 🤖 Boticons  
 ![Boticons Logo Placeholder](assets/logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
+  <img alt="Boticons Logo" src="assets/logo-light.svg" width="150">
+</picture>
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-green.svg)
