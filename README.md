@@ -8,11 +8,11 @@
   </picture>
 </p>
 
-![Version](https://img.shields.io/badge/version-v1.0-blue.svg)
-![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-green.svg)
-![Status](https://img.shields.io/badge/status-active--development-orange.svg)
-![CDN](https://img.shields.io/badge/CDN-jsDelivr-blue.svg)
-![Designer](https://img.shields.io/badge/designed%20by-iRobbott-black.svg)
+![Version](https://img.shields.io/badge/version-v1.0-blue.svg) <br>
+![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-green.svg) <br>
+![Status](https://img.shields.io/badge/status-active--development-orange.svg) <br>
+![CDN](https://img.shields.io/badge/CDN-jsDelivr-blue.svg) <br>
+![Designer](https://img.shields.io/badge/designed%20by-iRobbott-black.svg) <br>
 
 ---
 
